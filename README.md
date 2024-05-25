@@ -1,24 +1,7 @@
-
-Common questions I get asked:
--What sites can I hit???
-The site needs to have the PayPal express checkout option so you won't get 2FA
-HERE ARE SOME SITES TO HIT:
-GIFTCARD SITE
--Eneba.com, Kinguin.com G2a.com www.fotosound.je mechkeys.com
-Cosmetic, Gym stuff fragrance etc.. -Iherb.com, fragrance.net Pandora.com
-Clothes, shoes
--Pandabuy.com, footlocker.com SHEIN.com
-Electronics
--https://techmarket.co.uk (they shipping everywhere dw)
-THESE ARE ONLY EXAMPLES IF YOU KNOW SITES WITH PAYPAL EXPRESS CHECKOUT YOU CAN USE THEM!!!
--Is there a chance to get caught
-Don't worry there is only a small
-chance to get caught you can safely ship it to ur own address however I recommend that you don't abuse it and I also got a method if you don't want to ship to ur own address
--How do i checkout on sites?
-IN THE FOLLOWING TXT FILE
-THERE IS STEP BY STEP TUTORIAL ON HOW TO HIT SAFLEY!!!
-
 # 🛠️ Ultimate Guide to Using PayPal Logs 🛠️
+
+### Thank You!
+Thank you for purchasing this course! Please keep this guide confidential and do not share or leak it to others. Your success depends on maintaining the integrity of this method. 🤫✨
 
 ### 📚 Key Terms
 - **Hit**: Successful PayPal payment.
@@ -48,7 +31,8 @@ THERE IS STEP BY STEP TUTORIAL ON HOW TO HIT SAFLEY!!!
 5. **Checkout Process**:
    - Add your desired items to the cart and proceed to checkout 🛍️.
    - Scroll to "Buy Now" and select "Checkout with PayPal" under Express Payments.
-   - Manually type in the email slowly ✍️. Avoid copy-pasting to prevent triggering security checks.
+   - Enter the email address manually. (Typing speed doesn’t matter.)
+   - Enter the password manually (Never paste the password. Typing speed doesn’t matter.)
    - Complete the PayPal checkout normally.
    - Before finalizing, change the email delivery to your own email 📧.
 
@@ -68,7 +52,8 @@ THERE IS STEP BY STEP TUTORIAL ON HOW TO HIT SAFLEY!!!
    - Visit the target site using DuckDuckGo.
    - Add items to your cart and proceed to checkout.
    - Choose "Checkout with PayPal" under Express Payments.
-   - Type in the email manually, ensuring you do it slowly.
+   - Enter the email manually. (Typing speed doesn’t matter.)
+   - Enter the password manually. (Never paste the password. Typing speed doesn’t matter.)
    - Complete the PayPal checkout as usual.
    - Remember to change the delivery email to your own before finalizing the purchase.
 
@@ -89,7 +74,8 @@ THERE IS STEP BY STEP TUTORIAL ON HOW TO HIT SAFLEY!!!
    - Visit the target site using Brave.
    - Add items to your cart and proceed to checkout.
    - Choose "Checkout with PayPal" under Express Payments.
-   - Type in the email manually, ensuring you do it slowly.
+   - Enter the email manually. (Typing speed doesn’t matter.)
+   - Enter the password manually. (Never paste the password. Typing speed doesn’t matter.)
    - Complete the PayPal checkout as usual.
    - Remember to change the delivery email to your own before finalizing the purchase.
 
@@ -102,5 +88,8 @@ THERE IS STEP BY STEP TUTORIAL ON HOW TO HIT SAFLEY!!!
 - Regularly clear your browsing data to avoid detection 🧹.
 - Switch IP addresses frequently by toggling airplane mode.
 - Use strong and varied passwords for your accounts 🔐.
+
+### 🚨 VERY IMPORTANT TO NOTE:
+While everyone says that you should type it in slow, they are wrong. It does not matter if you do it slow or fast. The most important things are your logs and scam score. You can type it any way you want. In the end, it’s up to PayPal whether they let you hit or not. Even the best hitters worldwide can't guarantee a hit every time.
 
 By following these steps and tips, you can increase your chances of success while maintaining a low profile and avoiding detection. Stay savvy and safe! 🚀✨
